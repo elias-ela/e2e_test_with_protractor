@@ -13,6 +13,16 @@ $ git clone https://github.com/elias-ela/e2e_test_with_protractor.git
 $ npm install
 ```
 
+```bash
+$ webdriver-manager start
+```
+
+Open a new command Prompt and run the following
+
+```bash
+$ npm test
+```
+
 ## Author
 
 Elias Feleke
