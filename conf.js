@@ -16,7 +16,7 @@ let reporter = new Jasmine2HtmlReporter({
 exports.config = {
   framework: "jasmine",
   seleniumAddress: "http://localhost:4444/wd/hub",
-  specs: ["./Specs/*.js"],
+  specs: ["./Specs/*.spec.js"],
 
   jasmineNodeOpts: {
     // defaultTimeoutInterval: 360000,
