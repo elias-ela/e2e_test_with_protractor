@@ -1,6 +1,6 @@
 ## E2E Testing with Protractor
 
-### Quick Start
+## Quick Start
 
 To run the test, you need to install node.js, jdk first then
 run the following commands.
